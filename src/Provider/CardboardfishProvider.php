@@ -188,17 +188,6 @@ class CardboardfishProvider extends AbstractProvider
                  */
                 'LC' => null,
                 /*
-                 * -- data coding scheme
-                 * 0 - Flash
-                 * 1 - Normal (default)
-                 * 2 - Binary
-                 * 4 - UCS2
-                 * 5 - Flash UCS2
-                 * 6 - Flash GSM
-                 * 7 - Normal GSM
-                 */
-                'DC' => 0,
-                /*
                  * -- delivery receipt
                  * Controls whether a delivery receipt is
                  * requested for this message where:

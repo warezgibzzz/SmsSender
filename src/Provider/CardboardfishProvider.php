@@ -22,12 +22,12 @@ class CardboardfishProvider extends AbstractProvider
     /**
      * @var string
      */
-    const SEND_SMS_URL = 'http://sms1.cardboardfish.com:9001/HTTPSMS';
+    const SEND_SMS_URL = 'http://sms2.cardboardfish.com:9001/HTTPSMS';
 
     /**
      * @var string
      */
-    const SMS_STATUS_URL = 'http://sms1.cardboardfish.com:9001/ClientDR/ClientDR';
+    const SMS_STATUS_URL = 'http://sms2.cardboardfish.com:9001/ClientDR/ClientDR';
 
     /**
      * @var string
